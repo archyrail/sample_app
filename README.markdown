@@ -1,3 +1,6 @@
+#Note by LRG: Ruby on Rails Tutorial: sample_app
+#Chapter 3 of tutorial
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
